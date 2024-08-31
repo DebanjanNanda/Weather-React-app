@@ -1,0 +1,28 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #292928, #c48554); /* Gradient colors */
+    font-family: Arial, sans-serif; /* Optional: for consistent font styling */
+}
+.about-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 50px auto;
+    background: linear-gradient(to right, #f9f9f9, #9e8d8d);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.about-container h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.about-container p {
+    font-size: 18px;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
